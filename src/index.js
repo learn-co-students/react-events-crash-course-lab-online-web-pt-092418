@@ -6,4 +6,7 @@ import ChromeBoisDomain from './ChromeBoisDomain.js'
 
 init()
 
-ReactDOM.render(<ChromeBoisDomain />, document.getElementById('root'));
+ReactDOM.render(
+  <ChromeBoisDomain />,
+  document.getElementById('root')
+);
